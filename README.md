@@ -40,9 +40,8 @@ print(d)
 f.close()
 ```
 ### OUTPUT:
-![sample text](/sample%20text.png)
-
-![output](/ex5%20ot.png)
+![sample text](https://user-images.githubusercontent.com/118787261/215283687-d25682c1-5f2a-41ee-9add-5c89754bd1dd.png)
+![ex5 ot](https://user-images.githubusercontent.com/118787261/215283699-37cb8c17-ab66-4328-b1c0-7edb8f2b4e72.png)
 
 
 ## RESULT:
